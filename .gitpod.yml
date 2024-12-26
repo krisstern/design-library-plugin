@@ -22,3 +22,7 @@ jetbrains:
       - Stapler plugin for IntelliJ IDEA
     prebuilds:
       version: stable
+
+vscode:
+  extensions:
+    - vscjava.vscode-java-pack
